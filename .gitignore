@@ -1,0 +1,9 @@
+Guia-Docente-Juego.pdf
+Texto-Canvas-Juego.txt
+QR-Juego-Formas-Normales.png
+*.log
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
